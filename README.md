@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">  Hi there ✌🏻</h1>
 
-### :woman_technologist: About Me : 
+### 👩🏻‍💻 About Me : 
 I'm a Front End Developer  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 - 🔭 I’m working as a Game Developer and a Front End Developer for building web applications.
 - 🌱 Exploring new technologies and frameworks.
