@@ -25,7 +25,7 @@ I'm a Front End Developer  <img src="https://media.giphy.com/media/QssGEmpkyEOhB
 - 📫  How to reach me: https://t.me/m_reginaa
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 📚 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -45,6 +45,6 @@ I'm a Front End Developer  <img src="https://media.giphy.com/media/QssGEmpkyEOhB
 </div>
 
 ---
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Regina1997&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
